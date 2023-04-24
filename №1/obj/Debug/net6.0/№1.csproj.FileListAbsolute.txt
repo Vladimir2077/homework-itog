@@ -1,0 +1,15 @@
+/Users/vladimirlambin/Desktop/itog/№1/bin/Debug/net6.0/№1
+/Users/vladimirlambin/Desktop/itog/№1/bin/Debug/net6.0/№1.deps.json
+/Users/vladimirlambin/Desktop/itog/№1/bin/Debug/net6.0/№1.runtimeconfig.json
+/Users/vladimirlambin/Desktop/itog/№1/bin/Debug/net6.0/№1.dll
+/Users/vladimirlambin/Desktop/itog/№1/bin/Debug/net6.0/№1.pdb
+/Users/vladimirlambin/Desktop/itog/№1/obj/Debug/net6.0/№1.csproj.AssemblyReference.cache
+/Users/vladimirlambin/Desktop/itog/№1/obj/Debug/net6.0/№1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirlambin/Desktop/itog/№1/obj/Debug/net6.0/№1.AssemblyInfoInputs.cache
+/Users/vladimirlambin/Desktop/itog/№1/obj/Debug/net6.0/№1.AssemblyInfo.cs
+/Users/vladimirlambin/Desktop/itog/№1/obj/Debug/net6.0/№1.csproj.CoreCompileInputs.cache
+/Users/vladimirlambin/Desktop/itog/№1/obj/Debug/net6.0/№1.dll
+/Users/vladimirlambin/Desktop/itog/№1/obj/Debug/net6.0/refint/№1.dll
+/Users/vladimirlambin/Desktop/itog/№1/obj/Debug/net6.0/№1.pdb
+/Users/vladimirlambin/Desktop/itog/№1/obj/Debug/net6.0/№1.genruntimeconfig.cache
+/Users/vladimirlambin/Desktop/itog/№1/obj/Debug/net6.0/ref/№1.dll
